@@ -1,0 +1,5038 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/ruxan/ontologies/2024/11/untitled-ontology-9"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/ruxan/ontologies/2024/11/untitled-ontology-9">
+    <Prefix name="" IRI="http://www.semanticweb.org/ruxan/ontologies/2024/11/untitled-ontology-9"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Abyss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Acceptance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Achievement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Admiration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Affection"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Aggressive"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AlertPosture"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Amazement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Anchor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Anger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Annoyance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Anticipation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Applause"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Apprehention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ashes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Await"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Awe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BasicEmotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Betrayal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BitterSmile"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bittersweet"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BlackHeart"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Blaze"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bliss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bloom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Blooming"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BloomingFlower"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BlueSky"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bluebird"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bond"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Boredom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BoundWrist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BowedHead"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Breath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Breeze"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bridge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrightFuture"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrightPath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrokenChains"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrokenClock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrokenLocket"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrokenMirror"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrokenPen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Build"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Burning"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BurningFlame"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Burst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BuzzingFly"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CalmWaters"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CandleFlame"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Caress"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cause"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Celebration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chains"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chilling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ChillingCry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ChillingWhisper"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Clash"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ClaspedHands"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ClearPath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ClearSky"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ClenchedFist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ClenchedJaw"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cliff"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CliffEdge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Clock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ClockHands"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ClosedDoor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ClosedWindow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cloud"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ColdBreath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ColdWind"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Collision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Competition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ComplexEmotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Conflict"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Connection"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Contaminated"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Contempt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Corruption"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cosmos"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CrackedFacade"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CrackedGlass"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CrackedMirror"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Creak"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Crest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Crimson"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CrimsonSky"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CrossedArms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CrowdedRoom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Curiosity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Danger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DarkAlley"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DarkSludge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DarkenedRoom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Darkness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Decay"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Despair"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DespairingScream"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DestructiveForce"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dirty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Disappointment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Discovery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Disgust"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dissaproval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Distance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DistantEcho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DistantHorizon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DistantHowl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DistantLook"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Distraction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dove"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DownwardGaze"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dream"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DroopingFlower"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DualColoredRose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dusk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Echo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EchoingHowl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EchoingValley"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Eclipse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ecstasy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Edge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Embrace"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Emotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmptyChair"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmptyHands"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EndlessCycle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EndlessLoop"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Eruption"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Eternity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Exhilaration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Expectation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Explosion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fade"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FadedColors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FadingEcho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FadingLight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Failure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FallingLeaves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Festival"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Filth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fire"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fireworks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Flame"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FlashingScreen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Flicker"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FlickeringLight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Flight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fog"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FoldedHands"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FragmentedThought"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FrayingThread"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FreshAir"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FreshStart"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fury"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Galaxy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GentleStream"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ghost"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GhostlyWhisper"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gleam"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Glimmer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Glow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GlowingHalo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Golden"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GoldenLight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GoldenPath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GoldenTrail"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GrayClouds"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GraySkies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Grey"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Grief"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GrittedTeeth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Growth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GuardTower"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GuidingLight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Halo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HardenedHeart"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Harmony"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Haunt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HauntedHouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HeartfeltGaze"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Heaven"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HeavyHeart"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HeavyStep"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#High"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HollowSound"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hope"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Horizon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Howl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IdleHands"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#InfiniteSky"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Infinity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Injustice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IntenseEmotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Intensity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Interest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#IntertwinedHands"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Isolation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Joy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Kiss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#KneelingFigure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lament"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Laughter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Leap"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LiftedHands"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Light"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lightbulb"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lighthouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LightningBolt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LightningFlash"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Loathing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Loneliness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LonelyPath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Loss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LotusFlower"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Love"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Low"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LowHorizon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MagnifyingGlass"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MajesticView"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Majesty"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Map"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Maze"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Meadow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Memory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MildEmotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Miracle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mold"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Moon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Moonlight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Morning"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MorningDew"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Motion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mountain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NarrowPath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Nature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Negative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Neutral"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NewLeaf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Night"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Nightmare"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Normal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Notebook"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ocean"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Odor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OliveBranch"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OpenArms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OpenBook"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OpenDoor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OpenEyes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OpenField"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OpenRoad"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OpenWindow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Optimism"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Panic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Parting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Passion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Path"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PeacefulWave"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pedestal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pensiveness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pestilence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Poison"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Polarity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Positive"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Promise"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ProtectiveWall"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QuestionMark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QuietForest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QuietHorizon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QuietRoom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#QuietTear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Radiance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rainbow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Raindrop"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RedSky"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Reek"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Reflection"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Remorse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RepeatingEcho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RepeatingPattern"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Reunion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ripple"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rise"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RisingLight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RisingSun"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RoaringFire"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rot"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rotten"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RottenFruit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rush"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RustlingLeaves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RustlingPaper"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sadness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ScatteredPapers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Scorch"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ScornfulEyes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Scream"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ScreamingFigure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Serenity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shadow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShadowMovement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShadowedFace"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shadows"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShakingHead"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shatter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShatteredGlass"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShiftingShadow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shimmer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShimmeringLake"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShimmeringStream"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShiningStar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ShootingStar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sick"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sigh"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SignalFire"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Silence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SilentForest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SilentGaze"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SilentHaven"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SilentPanic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SilentRoom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SilentScorn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SilentStep"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sky"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Slime"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Smell"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Smile"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Smirk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Soar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SoftBreeze"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sorrow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spark"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sparkle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spilled"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SpilledMilk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SqueakyDoor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stab"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#StagnantAir"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#StaleAir"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Star"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#StaticNoise"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SteadyGaze"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SteadyHeart"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Step"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#StifledBreath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#StillWater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stillness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Storm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#StormClouds"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Struggle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Submission"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sunlight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sunrise"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sunset"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Surprise"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SwirlingPatterns"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Symbol"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Symphony"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TangledCords"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tears"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tempest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tenderness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Terror"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Threshold"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Thrill"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Thunder"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ThunderClap"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Thunderclap"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TickingClock"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Together"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tower"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ToweringMountain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Trail"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TremblingHands"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tremor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Trust"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UnbrokenCircle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UneasyStillness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Union"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Universe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Unknown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UnmetExpectations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vast"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#VastOcean"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Venom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#VenomousSnake"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vibrance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vigilance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Void"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Volcano"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WanderingPath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#War"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WarCry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WarmEmbrace"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WarmGlow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Warmth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WarningBell"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Waste"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WatchfulEye"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wave"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WaveringFlame"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Web"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Weight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WelcomeSign"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Whisper"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WhisperingLeaves"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WhistlingWind"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WideEyes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WildStorm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WiltedRose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WindingPath"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wither"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WitheredLeaf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wonder"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasCause"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasIntensity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasPolarity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isAssociatedWith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isComposedOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isOpositeOf"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#Acceptance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Boredom"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Admiration"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Loathing"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Amazement"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Vigilance"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Anger"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Fear"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Annoyance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Apprehention"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Anticipation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Surprise"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Apprehention"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Annoyance"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Boredom"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Acceptance"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Disgust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Trust"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Distraction"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Interest"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Ecstasy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Grief"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Fear"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Anger"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Grief"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Ecstasy"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Interest"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Distraction"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Joy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Sadness"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Loathing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Admiration"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Pensiveness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Serenity"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Rage"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Terror"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Sadness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Joy"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Serenity"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Pensiveness"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Surprise"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Anticipation"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Terror"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Rage"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Trust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Disgust"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Vigilance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isOpositeOf"/>
+            <Class IRI="#Amazement"/>
+        </ObjectSomeValuesFrom>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#Abyss"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Acceptance"/>
+        <Class IRI="#MildEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Acceptance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Achievement"/>
+                <Class IRI="#Growth"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Acceptance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Low"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Acceptance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Acceptance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#BloomingFlower"/>
+                <Class IRI="#Bridge"/>
+                <Class IRI="#BrightPath"/>
+                <Class IRI="#CalmWaters"/>
+                <Class IRI="#ClearSky"/>
+                <Class IRI="#Dove"/>
+                <Class IRI="#FreshStart"/>
+                <Class IRI="#GentleStream"/>
+                <Class IRI="#GoldenLight"/>
+                <Class IRI="#IntertwinedHands"/>
+                <Class IRI="#OliveBranch"/>
+                <Class IRI="#OpenArms"/>
+                <Class IRI="#OpenDoor"/>
+                <Class IRI="#PeacefulWave"/>
+                <Class IRI="#QuietHorizon"/>
+                <Class IRI="#SteadyHeart"/>
+                <Class IRI="#Sunrise"/>
+                <Class IRI="#UnbrokenCircle"/>
+                <Class IRI="#WarmEmbrace"/>
+                <Class IRI="#WelcomeSign"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Achievement"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Admiration"/>
+        <Class IRI="#IntenseEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Admiration"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Achievement"/>
+                <Class IRI="#Discovery"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Admiration"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#High"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Admiration"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Admiration"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Applause"/>
+                <Class IRI="#BloomingFlower"/>
+                <Class IRI="#Bridge"/>
+                <Class IRI="#ClearSky"/>
+                <Class IRI="#Embrace"/>
+                <Class IRI="#GentleStream"/>
+                <Class IRI="#GlowingHalo"/>
+                <Class IRI="#GoldenLight"/>
+                <Class IRI="#GuidingLight"/>
+                <Class IRI="#HeartfeltGaze"/>
+                <Class IRI="#OpenArms"/>
+                <Class IRI="#OpenRoad"/>
+                <Class IRI="#Pedestal"/>
+                <Class IRI="#RisingSun"/>
+                <Class IRI="#ShiningStar"/>
+                <Class IRI="#Sparkle"/>
+                <Class IRI="#ToweringMountain"/>
+                <Class IRI="#WideEyes"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Affection"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Aggressive"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Aggressive"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Competition"/>
+                <Class IRI="#Conflict"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Aggressive"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Aggressive"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Blaze"/>
+                <Class IRI="#Burning"/>
+                <Class IRI="#Chain"/>
+                <Class IRI="#Clash"/>
+                <Class IRI="#ClenchedFist"/>
+                <Class IRI="#Collision"/>
+                <Class IRI="#Eruption"/>
+                <Class IRI="#Explosion"/>
+                <Class IRI="#Fire"/>
+                <Class IRI="#Fury"/>
+                <Class IRI="#LightningBolt"/>
+                <Class IRI="#RoaringFire"/>
+                <Class IRI="#Scorch"/>
+                <Class IRI="#Stab"/>
+                <Class IRI="#StormClouds"/>
+                <Class IRI="#Struggle"/>
+                <Class IRI="#Tempest"/>
+                <Class IRI="#Thunder"/>
+                <Class IRI="#War"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Aggressive"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Anger"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Aggressive"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Anticipation"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#AlertPosture"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Amazement"/>
+        <Class IRI="#IntenseEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Amazement"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <Class IRI="#Discovery"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Amazement"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#High"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Amazement"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Amazement"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Cosmos"/>
+                <Class IRI="#EchoingValley"/>
+                <Class IRI="#Fireworks"/>
+                <Class IRI="#Galaxy"/>
+                <Class IRI="#GoldenLight"/>
+                <Class IRI="#InfiniteSky"/>
+                <Class IRI="#LightningFlash"/>
+                <Class IRI="#MajesticView"/>
+                <Class IRI="#RisingSun"/>
+                <Class IRI="#Shimmer"/>
+                <Class IRI="#ShootingStar"/>
+                <Class IRI="#Sparkle"/>
+                <Class IRI="#Symphony"/>
+                <Class IRI="#Thunderclap"/>
+                <Class IRI="#ToweringMountain"/>
+                <Class IRI="#VastOcean"/>
+                <Class IRI="#WideEyes"/>
+                <Class IRI="#Wonder"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anchor"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anger"/>
+        <Class IRI="#BasicEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anger"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Conflict"/>
+                <Class IRI="#Injustice"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anger"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Normal"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anger"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anger"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Blaze"/>
+                <Class IRI="#Burning"/>
+                <Class IRI="#Chain"/>
+                <Class IRI="#Clash"/>
+                <Class IRI="#Collision"/>
+                <Class IRI="#Eruption"/>
+                <Class IRI="#Explosion"/>
+                <Class IRI="#Fire"/>
+                <Class IRI="#Fury"/>
+                <Class IRI="#Scorch"/>
+                <Class IRI="#Shatter"/>
+                <Class IRI="#Stab"/>
+                <Class IRI="#Storm"/>
+                <Class IRI="#Struggle"/>
+                <Class IRI="#Tempest"/>
+                <Class IRI="#Thunder"/>
+                <Class IRI="#Volcano"/>
+                <Class IRI="#War"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Annoyance"/>
+        <Class IRI="#MildEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Annoyance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Failure"/>
+                <Class IRI="#Isolation"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Annoyance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Low"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Annoyance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Annoyance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#BrokenPen"/>
+                <Class IRI="#BuzzingFly"/>
+                <Class IRI="#ClenchedJaw"/>
+                <Class IRI="#ClosedWindow"/>
+                <Class IRI="#CrackedGlass"/>
+                <Class IRI="#CrowdedRoom"/>
+                <Class IRI="#EndlessLoop"/>
+                <Class IRI="#FadingEcho"/>
+                <Class IRI="#FlickeringLight"/>
+                <Class IRI="#FrayingThread"/>
+                <Class IRI="#GrittedTeeth"/>
+                <Class IRI="#HollowSound"/>
+                <Class IRI="#RepeatingPattern"/>
+                <Class IRI="#ScatteredPapers"/>
+                <Class IRI="#SpilledMilk"/>
+                <Class IRI="#SqueakyDoor"/>
+                <Class IRI="#StaleAir"/>
+                <Class IRI="#StaticNoise"/>
+                <Class IRI="#TangledCords"/>
+                <Class IRI="#TickingClock"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anticipation"/>
+        <Class IRI="#BasicEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anticipation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Discovery"/>
+                <Class IRI="#Hope"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anticipation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Normal"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anticipation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Neutral"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anticipation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Await"/>
+                <Class IRI="#Breath"/>
+                <Class IRI="#Build"/>
+                <Class IRI="#Clock"/>
+                <Class IRI="#Crest"/>
+                <Class IRI="#Edge"/>
+                <Class IRI="#Expectation"/>
+                <Class IRI="#Flicker"/>
+                <Class IRI="#Leap"/>
+                <Class IRI="#Motion"/>
+                <Class IRI="#Path"/>
+                <Class IRI="#Rise"/>
+                <Class IRI="#Seed"/>
+                <Class IRI="#Spark"/>
+                <Class IRI="#Step"/>
+                <Class IRI="#Threshold"/>
+                <Class IRI="#Trail"/>
+                <Class IRI="#Wave"/>
+                <Class IRI="#Whisper"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Applause"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Apprehention"/>
+        <Class IRI="#MildEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Apprehention"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Danger"/>
+                <Class IRI="#Reflection"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Apprehention"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Low"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Apprehention"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Apprehention"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#ChillingWhisper"/>
+                <Class IRI="#ClosedDoor"/>
+                <Class IRI="#ColdBreath"/>
+                <Class IRI="#DarkAlley"/>
+                <Class IRI="#DistantEcho"/>
+                <Class IRI="#DistantHowl"/>
+                <Class IRI="#FlickeringLight"/>
+                <Class IRI="#Fog"/>
+                <Class IRI="#HeavyStep"/>
+                <Class IRI="#LowHorizon"/>
+                <Class IRI="#NarrowPath"/>
+                <Class IRI="#RustlingLeaves"/>
+                <Class IRI="#Shadows"/>
+                <Class IRI="#ShiftingShadow"/>
+                <Class IRI="#SilentRoom"/>
+                <Class IRI="#TremblingHands"/>
+                <Class IRI="#UneasyStillness"/>
+                <Class IRI="#WaveringFlame"/>
+                <Class IRI="#Web"/>
+                <Class IRI="#WhistlingWind"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ashes"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Await"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Awe"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Awe"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Discovery"/>
+                <Class IRI="#Nature"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Awe"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Awe"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Cosmos"/>
+                <Class IRI="#Eclipse"/>
+                <Class IRI="#Galaxy"/>
+                <Class IRI="#Halo"/>
+                <Class IRI="#Infinity"/>
+                <Class IRI="#Light"/>
+                <Class IRI="#Majesty"/>
+                <Class IRI="#Miracle"/>
+                <Class IRI="#Moon"/>
+                <Class IRI="#Mountain"/>
+                <Class IRI="#Ocean"/>
+                <Class IRI="#Sky"/>
+                <Class IRI="#Star"/>
+                <Class IRI="#Sunrise"/>
+                <Class IRI="#Sunset"/>
+                <Class IRI="#Thunder"/>
+                <Class IRI="#Tower"/>
+                <Class IRI="#Universe"/>
+                <Class IRI="#Vast"/>
+                <Class IRI="#Wonder"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Awe"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Fear"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Awe"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Surprise"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BasicEmotion"/>
+        <Class IRI="#Emotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Betrayal"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BitterSmile"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bittersweet"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bittersweet"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Loss"/>
+                <Class IRI="#Reflection"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bittersweet"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bittersweet"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Ashes"/>
+                <Class IRI="#BrokenLocket"/>
+                <Class IRI="#CrimsonSky"/>
+                <Class IRI="#DualColoredRose"/>
+                <Class IRI="#Dusk"/>
+                <Class IRI="#Echo"/>
+                <Class IRI="#FadingLight"/>
+                <Class IRI="#LonelyPath"/>
+                <Class IRI="#Memory"/>
+                <Class IRI="#Parting"/>
+                <Class IRI="#Raindrop"/>
+                <Class IRI="#Reflection"/>
+                <Class IRI="#Ripple"/>
+                <Class IRI="#Shadow"/>
+                <Class IRI="#Sunset"/>
+                <Class IRI="#Tear"/>
+                <Class IRI="#Whisper"/>
+                <Class IRI="#Wither"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bittersweet"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Joy"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bittersweet"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Sadness"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BlackHeart"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Blaze"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bliss"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bloom"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Blooming"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BloomingFlower"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BlueSky"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bluebird"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bond"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boredom"/>
+        <Class IRI="#MildEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boredom"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Isolation"/>
+                <Class IRI="#Reflection"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boredom"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Low"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boredom"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Boredom"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#ClockHands"/>
+                <Class IRI="#ClosedDoor"/>
+                <Class IRI="#DistantHorizon"/>
+                <Class IRI="#DroopingFlower"/>
+                <Class IRI="#Echo"/>
+                <Class IRI="#EmptyChair"/>
+                <Class IRI="#EndlessCycle"/>
+                <Class IRI="#FadedColors"/>
+                <Class IRI="#GraySkies"/>
+                <Class IRI="#HollowSound"/>
+                <Class IRI="#IdleHands"/>
+                <Class IRI="#LonelyPath"/>
+                <Class IRI="#Maze"/>
+                <Class IRI="#RepeatingPattern"/>
+                <Class IRI="#SilentRoom"/>
+                <Class IRI="#StagnantAir"/>
+                <Class IRI="#StaticNoise"/>
+                <Class IRI="#StillWater"/>
+                <Class IRI="#TickingClock"/>
+                <Class IRI="#WitheredLeaf"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BoundWrist"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BowedHead"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Breath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Breeze"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bridge"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrightFuture"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrightPath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrokenChains"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrokenClock"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrokenLocket"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrokenMirror"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrokenPen"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Build"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Burning"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BurningFlame"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Burst"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BuzzingFly"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cage"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CalmWaters"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CandleFlame"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Caress"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Celebration"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Celebration"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chain"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chains"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chilling"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ChillingCry"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ChillingWhisper"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Clash"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ClaspedHands"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ClearPath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ClearSky"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ClenchedFist"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ClenchedJaw"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cliff"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CliffEdge"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Clock"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ClockHands"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ClosedDoor"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ClosedWindow"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cloud"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ColdBreath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ColdWind"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Collision"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Competition"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ComplexEmotion"/>
+        <Class IRI="#Emotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Conflict"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Connection"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Contaminated"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Contempt"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Contempt"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Competition"/>
+                <Class IRI="#Injustice"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Contempt"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Contempt"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#BitterSmile"/>
+                <Class IRI="#BrokenMirror"/>
+                <Class IRI="#Chain"/>
+                <Class IRI="#ClosedDoor"/>
+                <Class IRI="#Corruption"/>
+                <Class IRI="#CrackedFacade"/>
+                <Class IRI="#CrossedArms"/>
+                <Class IRI="#DistantLook"/>
+                <Class IRI="#DownwardGaze"/>
+                <Class IRI="#HardenedHeart"/>
+                <Class IRI="#Isolation"/>
+                <Class IRI="#ScornfulEyes"/>
+                <Class IRI="#ShadowedFace"/>
+                <Class IRI="#ShakingHead"/>
+                <Class IRI="#Smirk"/>
+                <Class IRI="#Stain"/>
+                <Class IRI="#Venom"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Contempt"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Anger"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Contempt"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Disgust"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Corruption"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cosmos"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CrackedFacade"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CrackedGlass"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CrackedMirror"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Creak"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Crest"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Crimson"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CrimsonSky"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CrossedArms"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#CrowdedRoom"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Curiosity"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dance"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Danger"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DarkAlley"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DarkSludge"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DarkenedRoom"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Darkness"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Decay"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Despair"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DespairingScream"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DestructiveForce"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dirty"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disappointment"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disappointment"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Failure"/>
+                <Class IRI="#UnmetExpectations"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disappointment"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disappointment"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Ashes"/>
+                <Class IRI="#BrokenClock"/>
+                <Class IRI="#DistantHorizon"/>
+                <Class IRI="#DroopingFlower"/>
+                <Class IRI="#Echo"/>
+                <Class IRI="#EmptyHands"/>
+                <Class IRI="#FadingLight"/>
+                <Class IRI="#GraySkies"/>
+                <Class IRI="#LonelyPath"/>
+                <Class IRI="#Parting"/>
+                <Class IRI="#Ripple"/>
+                <Class IRI="#Shadow"/>
+                <Class IRI="#ShatteredGlass"/>
+                <Class IRI="#Sigh"/>
+                <Class IRI="#UnmetExpectations"/>
+                <Class IRI="#WiltedRose"/>
+                <Class IRI="#WitheredLeaf"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disappointment"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Anticipation"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disappointment"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Sadness"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Discovery"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Discovery"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disgust"/>
+        <Class IRI="#BasicEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disgust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Injustice"/>
+                <Class IRI="#Isolation"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disgust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Normal"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disgust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Disgust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Contaminated"/>
+                <Class IRI="#Corruption"/>
+                <Class IRI="#Decay"/>
+                <Class IRI="#Dirty"/>
+                <Class IRI="#Filth"/>
+                <Class IRI="#Injustice"/>
+                <Class IRI="#Mold"/>
+                <Class IRI="#Odor"/>
+                <Class IRI="#Pestilence"/>
+                <Class IRI="#Poison"/>
+                <Class IRI="#Reek"/>
+                <Class IRI="#Rot"/>
+                <Class IRI="#Rotten"/>
+                <Class IRI="#Sick"/>
+                <Class IRI="#Slime"/>
+                <Class IRI="#Smell"/>
+                <Class IRI="#Spilled"/>
+                <Class IRI="#Stain"/>
+                <Class IRI="#Venom"/>
+                <Class IRI="#Waste"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dissaproval"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dissaproval"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Failure"/>
+                <Class IRI="#Injustice"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dissaproval"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dissaproval"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#BitterSmile"/>
+                <Class IRI="#Chain"/>
+                <Class IRI="#ClosedDoor"/>
+                <Class IRI="#CrackedMirror"/>
+                <Class IRI="#CrossedArms"/>
+                <Class IRI="#DistantLook"/>
+                <Class IRI="#DroopingFlower"/>
+                <Class IRI="#Echo"/>
+                <Class IRI="#GrayClouds"/>
+                <Class IRI="#HardenedHeart"/>
+                <Class IRI="#ScornfulEyes"/>
+                <Class IRI="#ShadowedFace"/>
+                <Class IRI="#ShakingHead"/>
+                <Class IRI="#SilentGaze"/>
+                <Class IRI="#Stain"/>
+                <Class IRI="#WiltedRose"/>
+                <Class IRI="#WitheredLeaf"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dissaproval"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Sadness"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dissaproval"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Surprise"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Distance"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DistantEcho"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DistantHorizon"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DistantHowl"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DistantLook"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Distraction"/>
+        <Class IRI="#MildEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Distraction"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Competition"/>
+                <Class IRI="#Isolation"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Distraction"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Low"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Distraction"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Distraction"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#BrokenClock"/>
+                <Class IRI="#BuzzingFly"/>
+                <Class IRI="#CrowdedRoom"/>
+                <Class IRI="#EndlessLoop"/>
+                <Class IRI="#FlashingScreen"/>
+                <Class IRI="#FlickeringLight"/>
+                <Class IRI="#FragmentedThought"/>
+                <Class IRI="#HollowSound"/>
+                <Class IRI="#Maze"/>
+                <Class IRI="#OpenWindow"/>
+                <Class IRI="#RepeatingEcho"/>
+                <Class IRI="#Ripple"/>
+                <Class IRI="#ScatteredPapers"/>
+                <Class IRI="#ShiftingShadow"/>
+                <Class IRI="#StaticNoise"/>
+                <Class IRI="#SwirlingPatterns"/>
+                <Class IRI="#TangledCords"/>
+                <Class IRI="#TickingClock"/>
+                <Class IRI="#WanderingPath"/>
+                <Class IRI="#Web"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dove"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DownwardGaze"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dream"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DroopingFlower"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DualColoredRose"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dusk"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Echo"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EchoingHowl"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EchoingValley"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Eclipse"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ecstasy"/>
+        <Class IRI="#IntenseEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ecstasy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Celebration"/>
+                <Class IRI="#Reunion"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ecstasy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#High"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ecstasy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ecstasy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Bliss"/>
+                <Class IRI="#Burst"/>
+                <Class IRI="#Celebration"/>
+                <Class IRI="#Exhilaration"/>
+                <Class IRI="#Flight"/>
+                <Class IRI="#GentleStream"/>
+                <Class IRI="#Gleam"/>
+                <Class IRI="#Glow"/>
+                <Class IRI="#GoldenLight"/>
+                <Class IRI="#Harmony"/>
+                <Class IRI="#Heaven"/>
+                <Class IRI="#InfiniteSky"/>
+                <Class IRI="#Moonlight"/>
+                <Class IRI="#Rush"/>
+                <Class IRI="#Shimmer"/>
+                <Class IRI="#Soar"/>
+                <Class IRI="#Sparkle"/>
+                <Class IRI="#Symphony"/>
+                <Class IRI="#Thrill"/>
+                <Class IRI="#Vibrance"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Edge"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Embrace"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EmptyChair"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EmptyHands"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EndlessCycle"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EndlessLoop"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Eruption"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Eternity"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Exhilaration"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Expectation"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Explosion"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fade"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FadedColors"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FadingEcho"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FadingLight"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Failure"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FallingLeaves"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fear"/>
+        <Class IRI="#BasicEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fear"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Danger"/>
+                <Class IRI="#Isolation"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fear"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Normal"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fear"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fear"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Abyss"/>
+                <Class IRI="#Cage"/>
+                <Class IRI="#Chilling"/>
+                <Class IRI="#Cliff"/>
+                <Class IRI="#Creak"/>
+                <Class IRI="#Darkness"/>
+                <Class IRI="#Despair"/>
+                <Class IRI="#Fog"/>
+                <Class IRI="#Ghost"/>
+                <Class IRI="#Haunt"/>
+                <Class IRI="#Howl"/>
+                <Class IRI="#Night"/>
+                <Class IRI="#Panic"/>
+                <Class IRI="#Scream"/>
+                <Class IRI="#Shadow"/>
+                <Class IRI="#Silence"/>
+                <Class IRI="#Tremor"/>
+                <Class IRI="#Unknown"/>
+                <Class IRI="#Void"/>
+                <Class IRI="#Web"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Festival"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Filth"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fire"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fireworks"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flame"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FlashingScreen"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flicker"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FlickeringLight"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flight"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fog"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FoldedHands"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FragmentedThought"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FrayingThread"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FreshAir"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FreshStart"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fury"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Galaxy"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GentleStream"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ghost"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GhostlyWhisper"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gleam"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Glimmer"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Glow"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GlowingHalo"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Golden"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GoldenLight"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GoldenPath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GoldenTrail"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrayClouds"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GraySkies"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Grey"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Grief"/>
+        <Class IRI="#IntenseEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Grief"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Loss"/>
+                <Class IRI="#Memory"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Grief"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#High"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Grief"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Grief"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Ashes"/>
+                <Class IRI="#BrokenLocket"/>
+                <Class IRI="#DistantEcho"/>
+                <Class IRI="#DistantHorizon"/>
+                <Class IRI="#DroopingFlower"/>
+                <Class IRI="#Echo"/>
+                <Class IRI="#EmptyChair"/>
+                <Class IRI="#FadingLight"/>
+                <Class IRI="#FallingLeaves"/>
+                <Class IRI="#GraySkies"/>
+                <Class IRI="#HeavyHeart"/>
+                <Class IRI="#LonelyPath"/>
+                <Class IRI="#Parting"/>
+                <Class IRI="#Shadow"/>
+                <Class IRI="#SilentRoom"/>
+                <Class IRI="#Tears"/>
+                <Class IRI="#WiltedRose"/>
+                <Class IRI="#WitheredLeaf"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrittedTeeth"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Growth"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GuardTower"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GuidingLight"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Halo"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HardenedHeart"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Harmony"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Haunt"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HauntedHouse"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HeartfeltGaze"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Heaven"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HeavyHeart"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HeavyStep"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#High"/>
+        <Class IRI="#Intensity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HollowSound"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hope"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Horizon"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Howl"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IdleHands"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#InfiniteSky"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Infinity"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Injustice"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Injustice"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IntenseEmotion"/>
+        <Class IRI="#Emotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interest"/>
+        <Class IRI="#MildEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interest"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Discovery"/>
+                <Class IRI="#Growth"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interest"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Low"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interest"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interest"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Curiosity"/>
+                <Class IRI="#Discovery"/>
+                <Class IRI="#GentleStream"/>
+                <Class IRI="#Glimmer"/>
+                <Class IRI="#GoldenTrail"/>
+                <Class IRI="#GuidingLight"/>
+                <Class IRI="#Horizon"/>
+                <Class IRI="#Lightbulb"/>
+                <Class IRI="#MagnifyingGlass"/>
+                <Class IRI="#Map"/>
+                <Class IRI="#OpenBook"/>
+                <Class IRI="#OpenRoad"/>
+                <Class IRI="#Path"/>
+                <Class IRI="#QuestionMark"/>
+                <Class IRI="#RisingLight"/>
+                <Class IRI="#Shimmer"/>
+                <Class IRI="#Spark"/>
+                <Class IRI="#Whisper"/>
+                <Class IRI="#WideEyes"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#IntertwinedHands"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Isolation"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Isolation"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Joy"/>
+        <Class IRI="#BasicEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Joy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Achievement"/>
+                <Class IRI="#Celebration"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Joy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Normal"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Joy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Joy"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Bloom"/>
+                <Class IRI="#Bluebird"/>
+                <Class IRI="#Breeze"/>
+                <Class IRI="#Celebration"/>
+                <Class IRI="#Dance"/>
+                <Class IRI="#Dream"/>
+                <Class IRI="#Festival"/>
+                <Class IRI="#Fireworks"/>
+                <Class IRI="#Glow"/>
+                <Class IRI="#Golden"/>
+                <Class IRI="#Harmony"/>
+                <Class IRI="#Laughter"/>
+                <Class IRI="#Meadow"/>
+                <Class IRI="#Morning"/>
+                <Class IRI="#Radiance"/>
+                <Class IRI="#Rainbow"/>
+                <Class IRI="#Smile"/>
+                <Class IRI="#Spark"/>
+                <Class IRI="#Sunlight"/>
+                <Class IRI="#Warmth"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Kiss"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#KneelingFigure"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lament"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laughter"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Leap"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LiftedHands"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Light"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lightbulb"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lighthouse"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LightningBolt"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LightningFlash"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Loathing"/>
+        <Class IRI="#IntenseEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Loathing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Betrayal"/>
+                <Class IRI="#Injustice"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Loathing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#High"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Loathing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Loathing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#BitterSmile"/>
+                <Class IRI="#BlackHeart"/>
+                <Class IRI="#BrokenMirror"/>
+                <Class IRI="#Chain"/>
+                <Class IRI="#Corruption"/>
+                <Class IRI="#CrackedFacade"/>
+                <Class IRI="#DarkSludge"/>
+                <Class IRI="#DistantLook"/>
+                <Class IRI="#Filth"/>
+                <Class IRI="#HardenedHeart"/>
+                <Class IRI="#Reek"/>
+                <Class IRI="#RottenFruit"/>
+                <Class IRI="#ShadowedFace"/>
+                <Class IRI="#SilentScorn"/>
+                <Class IRI="#SpilledMilk"/>
+                <Class IRI="#Stain"/>
+                <Class IRI="#Venom"/>
+                <Class IRI="#VenomousSnake"/>
+                <Class IRI="#Web"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Loneliness"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LonelyPath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Loss"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LotusFlower"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Love"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Love"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Memory"/>
+                <Class IRI="#Reunion"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Love"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Love"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Affection"/>
+                <Class IRI="#Blooming"/>
+                <Class IRI="#Bond"/>
+                <Class IRI="#Caress"/>
+                <Class IRI="#Crimson"/>
+                <Class IRI="#Dove"/>
+                <Class IRI="#Embrace"/>
+                <Class IRI="#Eternity"/>
+                <Class IRI="#Flame"/>
+                <Class IRI="#Kiss"/>
+                <Class IRI="#Passion"/>
+                <Class IRI="#Promise"/>
+                <Class IRI="#Rose"/>
+                <Class IRI="#Sparkle"/>
+                <Class IRI="#Star"/>
+                <Class IRI="#Tenderness"/>
+                <Class IRI="#Together"/>
+                <Class IRI="#Trust"/>
+                <Class IRI="#Union"/>
+                <Class IRI="#Whisper"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Love"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Joy"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Love"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Trust"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Low"/>
+        <Class IRI="#Intensity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LowHorizon"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MagnifyingGlass"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MajesticView"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Majesty"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Map"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Maze"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Meadow"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Memory"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Memory"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MildEmotion"/>
+        <Class IRI="#Emotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Miracle"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mold"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Moon"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Moonlight"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Morning"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MorningDew"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Motion"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mountain"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NarrowPath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Nature"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Negative"/>
+        <Class IRI="#Polarity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Neutral"/>
+        <Class IRI="#Polarity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NewLeaf"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Night"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Nightmare"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Normal"/>
+        <Class IRI="#Intensity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Notebook"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ocean"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Odor"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OliveBranch"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OpenArms"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OpenBook"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OpenDoor"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OpenEyes"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OpenField"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OpenRoad"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OpenWindow"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Optimism"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Optimism"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Growth"/>
+                <Class IRI="#Hope"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Optimism"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Optimism"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#BloomingFlower"/>
+                <Class IRI="#BlueSky"/>
+                <Class IRI="#Bridge"/>
+                <Class IRI="#BrightFuture"/>
+                <Class IRI="#FreshStart"/>
+                <Class IRI="#GoldenPath"/>
+                <Class IRI="#Horizon"/>
+                <Class IRI="#LiftedHands"/>
+                <Class IRI="#Light"/>
+                <Class IRI="#NewLeaf"/>
+                <Class IRI="#OpenDoor"/>
+                <Class IRI="#OpenRoad"/>
+                <Class IRI="#Rainbow"/>
+                <Class IRI="#RisingSun"/>
+                <Class IRI="#ShimmeringStream"/>
+                <Class IRI="#Spark"/>
+                <Class IRI="#Sunrise"/>
+                <Class IRI="#Wings"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Optimism"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Anticipation"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Optimism"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Joy"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Panic"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Parting"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Passion"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Path"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PeacefulWave"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pedestal"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pensiveness"/>
+        <Class IRI="#MildEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pensiveness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Memory"/>
+                <Class IRI="#Reflection"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pensiveness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Low"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pensiveness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Neutral"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pensiveness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#CandleFlame"/>
+                <Class IRI="#ClosedWindow"/>
+                <Class IRI="#DistantHorizon"/>
+                <Class IRI="#DroopingFlower"/>
+                <Class IRI="#FadingEcho"/>
+                <Class IRI="#FadingLight"/>
+                <Class IRI="#FlickeringLight"/>
+                <Class IRI="#GentleStream"/>
+                <Class IRI="#HeavyHeart"/>
+                <Class IRI="#LowHorizon"/>
+                <Class IRI="#Memory"/>
+                <Class IRI="#Notebook"/>
+                <Class IRI="#QuietRoom"/>
+                <Class IRI="#Reflection"/>
+                <Class IRI="#RustlingPaper"/>
+                <Class IRI="#Shadows"/>
+                <Class IRI="#SilentStep"/>
+                <Class IRI="#StillWater"/>
+                <Class IRI="#WhisperingLeaves"/>
+                <Class IRI="#WindingPath"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pestilence"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Poison"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Positive"/>
+        <Class IRI="#Polarity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Promise"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ProtectiveWall"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QuestionMark"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QuietForest"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QuietHorizon"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QuietRoom"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#QuietTear"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Radiance"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rage"/>
+        <Class IRI="#IntenseEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rage"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Conflict"/>
+                <Class IRI="#Injustice"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rage"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#High"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rage"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rage"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Blaze"/>
+                <Class IRI="#BrokenChains"/>
+                <Class IRI="#BurningFlame"/>
+                <Class IRI="#ClenchedFist"/>
+                <Class IRI="#Collision"/>
+                <Class IRI="#DestructiveForce"/>
+                <Class IRI="#Eruption"/>
+                <Class IRI="#Explosion"/>
+                <Class IRI="#Fury"/>
+                <Class IRI="#LightningBolt"/>
+                <Class IRI="#RedSky"/>
+                <Class IRI="#RoaringFire"/>
+                <Class IRI="#Scorch"/>
+                <Class IRI="#ShatteredGlass"/>
+                <Class IRI="#Tempest"/>
+                <Class IRI="#Thunder"/>
+                <Class IRI="#Volcano"/>
+                <Class IRI="#WarCry"/>
+                <Class IRI="#WildStorm"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rainbow"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Raindrop"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RedSky"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Reek"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Reflection"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Reflection"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Remorse"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Remorse"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Failure"/>
+                <Class IRI="#Memory"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Remorse"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Remorse"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Ashes"/>
+                <Class IRI="#BrokenMirror"/>
+                <Class IRI="#Chain"/>
+                <Class IRI="#ClosedDoor"/>
+                <Class IRI="#CrackedFacade"/>
+                <Class IRI="#DistantLook"/>
+                <Class IRI="#DroopingFlower"/>
+                <Class IRI="#Echo"/>
+                <Class IRI="#EmptyHands"/>
+                <Class IRI="#FadingLight"/>
+                <Class IRI="#GraySkies"/>
+                <Class IRI="#ShadowedFace"/>
+                <Class IRI="#ShatteredGlass"/>
+                <Class IRI="#SilentGaze"/>
+                <Class IRI="#Tear"/>
+                <Class IRI="#WiltedRose"/>
+                <Class IRI="#WitheredLeaf"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Remorse"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Disgust"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Remorse"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Sadness"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RepeatingEcho"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RepeatingPattern"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Reunion"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ripple"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rise"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RisingLight"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RisingSun"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RoaringFire"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rose"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rot"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rotten"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RottenFruit"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rush"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RustlingLeaves"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RustlingPaper"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sadness"/>
+        <Class IRI="#BasicEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sadness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Loss"/>
+                <Class IRI="#Reflection"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sadness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Normal"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sadness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sadness"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Ashes"/>
+                <Class IRI="#Cloud"/>
+                <Class IRI="#Darkness"/>
+                <Class IRI="#Distance"/>
+                <Class IRI="#Dusk"/>
+                <Class IRI="#Echo"/>
+                <Class IRI="#Fade"/>
+                <Class IRI="#Grey"/>
+                <Class IRI="#Grief"/>
+                <Class IRI="#Lament"/>
+                <Class IRI="#Loneliness"/>
+                <Class IRI="#Parting"/>
+                <Class IRI="#Raindrop"/>
+                <Class IRI="#Ripple"/>
+                <Class IRI="#Shadow"/>
+                <Class IRI="#Silence"/>
+                <Class IRI="#Sorrow"/>
+                <Class IRI="#Tear"/>
+                <Class IRI="#Whisper"/>
+                <Class IRI="#Wither"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ScatteredPapers"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Scorch"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ScornfulEyes"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Scream"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ScreamingFigure"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seed"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Serenity"/>
+        <Class IRI="#MildEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Serenity"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Nature"/>
+                <Class IRI="#Reflection"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Serenity"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Low"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Serenity"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Serenity"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#BloomingFlower"/>
+                <Class IRI="#BlueSky"/>
+                <Class IRI="#CalmWaters"/>
+                <Class IRI="#ClearPath"/>
+                <Class IRI="#FreshAir"/>
+                <Class IRI="#GentleStream"/>
+                <Class IRI="#GoldenLight"/>
+                <Class IRI="#Horizon"/>
+                <Class IRI="#LotusFlower"/>
+                <Class IRI="#MorningDew"/>
+                <Class IRI="#OpenField"/>
+                <Class IRI="#PeacefulWave"/>
+                <Class IRI="#QuietForest"/>
+                <Class IRI="#RisingSun"/>
+                <Class IRI="#ShimmeringLake"/>
+                <Class IRI="#SilentHaven"/>
+                <Class IRI="#SoftBreeze"/>
+                <Class IRI="#Stillness"/>
+                <Class IRI="#WarmGlow"/>
+                <Class IRI="#WhisperingLeaves"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shadow"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShadowMovement"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShadowedFace"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shadows"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShakingHead"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shatter"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShatteredGlass"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShiftingShadow"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shimmer"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShimmeringLake"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShimmeringStream"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShiningStar"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ShootingStar"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sick"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sigh"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SignalFire"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Silence"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SilentForest"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SilentGaze"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SilentHaven"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SilentPanic"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SilentRoom"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SilentScorn"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SilentStep"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sky"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Slime"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Smell"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Smile"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Smirk"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Soar"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SoftBreeze"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sorrow"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spark"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sparkle"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spilled"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SpilledMilk"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SqueakyDoor"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Stab"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#StagnantAir"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Stain"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#StaleAir"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Star"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#StaticNoise"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SteadyGaze"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SteadyHeart"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Step"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#StifledBreath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#StillWater"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Stillness"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Storm"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#StormClouds"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Struggle"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Submission"/>
+        <Class IRI="#ComplexEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Submission"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Conflict"/>
+                <Class IRI="#Injustice"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Submission"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Neutral"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Submission"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#BoundWrist"/>
+                <Class IRI="#BowedHead"/>
+                <Class IRI="#Chains"/>
+                <Class IRI="#ClosedDoor"/>
+                <Class IRI="#DarkenedRoom"/>
+                <Class IRI="#DistantLook"/>
+                <Class IRI="#EmptyHands"/>
+                <Class IRI="#Fog"/>
+                <Class IRI="#FoldedHands"/>
+                <Class IRI="#HeavyHeart"/>
+                <Class IRI="#KneelingFigure"/>
+                <Class IRI="#LowHorizon"/>
+                <Class IRI="#QuietTear"/>
+                <Class IRI="#ShadowedFace"/>
+                <Class IRI="#SilentGaze"/>
+                <Class IRI="#StifledBreath"/>
+                <Class IRI="#StillWater"/>
+                <Class IRI="#Weight"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Submission"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Fear"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Submission"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isComposedOf"/>
+            <Class IRI="#Trust"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sunlight"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sunrise"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sunset"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Surprise"/>
+        <Class IRI="#BasicEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Surprise"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <Class IRI="#Discovery"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Surprise"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Normal"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Surprise"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Neutral"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Surprise"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Breath"/>
+                <Class IRI="#Build"/>
+                <Class IRI="#Crest"/>
+                <Class IRI="#Discovery"/>
+                <Class IRI="#Expectation"/>
+                <Class IRI="#Flicker"/>
+                <Class IRI="#Leap"/>
+                <Class IRI="#LightningFlash"/>
+                <Class IRI="#Motion"/>
+                <Class IRI="#Path"/>
+                <Class IRI="#Spark"/>
+                <Class IRI="#Step"/>
+                <Class IRI="#Threshold"/>
+                <Class IRI="#Wave"/>
+                <Class IRI="#Whisper"/>
+                <Class IRI="#WideEyes"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SwirlingPatterns"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Symphony"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TangledCords"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tear"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tears"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tempest"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tenderness"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Terror"/>
+        <Class IRI="#IntenseEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Terror"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Conflict"/>
+                <Class IRI="#Danger"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Terror"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#High"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Terror"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Negative"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Terror"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Abyss"/>
+                <Class IRI="#Cage"/>
+                <Class IRI="#ChillingCry"/>
+                <Class IRI="#CliffEdge"/>
+                <Class IRI="#ColdWind"/>
+                <Class IRI="#Darkness"/>
+                <Class IRI="#DespairingScream"/>
+                <Class IRI="#EchoingHowl"/>
+                <Class IRI="#Fog"/>
+                <Class IRI="#GhostlyWhisper"/>
+                <Class IRI="#HauntedHouse"/>
+                <Class IRI="#Nightmare"/>
+                <Class IRI="#ScreamingFigure"/>
+                <Class IRI="#Shadow"/>
+                <Class IRI="#ShatteredGlass"/>
+                <Class IRI="#SilentPanic"/>
+                <Class IRI="#ThunderClap"/>
+                <Class IRI="#TremblingHands"/>
+                <Class IRI="#Void"/>
+                <Class IRI="#Web"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Threshold"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thrill"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thunder"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ThunderClap"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thunderclap"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TickingClock"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Together"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tower"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ToweringMountain"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Trail"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#TremblingHands"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tremor"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Trust"/>
+        <Class IRI="#BasicEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Trust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Growth"/>
+                <Class IRI="#Reunion"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Trust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#Normal"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Trust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Positive"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Trust"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Anchor"/>
+                <Class IRI="#Bond"/>
+                <Class IRI="#Bridge"/>
+                <Class IRI="#ClaspedHands"/>
+                <Class IRI="#Connection"/>
+                <Class IRI="#Dove"/>
+                <Class IRI="#Embrace"/>
+                <Class IRI="#Eternity"/>
+                <Class IRI="#Harmony"/>
+                <Class IRI="#Light"/>
+                <Class IRI="#OpenDoor"/>
+                <Class IRI="#Promise"/>
+                <Class IRI="#Tenderness"/>
+                <Class IRI="#Together"/>
+                <Class IRI="#UnbrokenCircle"/>
+                <Class IRI="#Union"/>
+                <Class IRI="#Warmth"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UnbrokenCircle"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UneasyStillness"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Union"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Universe"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Unknown"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UnmetExpectations"/>
+        <Class IRI="#Cause"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UnmetExpectations"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vast"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#VastOcean"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Venom"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#VenomousSnake"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vibrance"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vigilance"/>
+        <Class IRI="#IntenseEmotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vigilance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasCause"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#Danger"/>
+                <Class IRI="#Hope"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vigilance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasIntensity"/>
+            <Class IRI="#High"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vigilance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasPolarity"/>
+            <Class IRI="#Neutral"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vigilance"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#isAssociatedWith"/>
+            <ObjectIntersectionOf>
+                <Class IRI="#AlertPosture"/>
+                <Class IRI="#Bridge"/>
+                <Class IRI="#ClearSky"/>
+                <Class IRI="#Glimmer"/>
+                <Class IRI="#GuardTower"/>
+                <Class IRI="#Lighthouse"/>
+                <Class IRI="#OpenEyes"/>
+                <Class IRI="#Path"/>
+                <Class IRI="#ProtectiveWall"/>
+                <Class IRI="#QuietHorizon"/>
+                <Class IRI="#RisingLight"/>
+                <Class IRI="#ShadowMovement"/>
+                <Class IRI="#SignalFire"/>
+                <Class IRI="#SilentForest"/>
+                <Class IRI="#SteadyGaze"/>
+                <Class IRI="#SteadyHeart"/>
+                <Class IRI="#Threshold"/>
+                <Class IRI="#UnbrokenCircle"/>
+                <Class IRI="#WarningBell"/>
+                <Class IRI="#WatchfulEye"/>
+            </ObjectIntersectionOf>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Void"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Volcano"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WanderingPath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#War"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WarCry"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WarmEmbrace"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WarmGlow"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Warmth"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WarningBell"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Waste"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WatchfulEye"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wave"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WaveringFlame"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Web"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Weight"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WelcomeSign"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Whisper"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WhisperingLeaves"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WhistlingWind"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WideEyes"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WildStorm"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WiltedRose"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WindingPath"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wings"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wither"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WitheredLeaf"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wonder"/>
+        <Class IRI="#Symbol"/>
+    </SubClassOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasCause"/>
+        <Class IRI="#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasIntensity"/>
+        <Class IRI="#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasPolarity"/>
+        <Class IRI="#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isAssociatedWith"/>
+        <Class IRI="#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isComposedOf"/>
+        <Class IRI="#ComplexEmotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isOpositeOf"/>
+        <Class IRI="#Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasCause"/>
+        <Class IRI="#Cause"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasIntensity"/>
+        <Class IRI="#Intensity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasPolarity"/>
+        <Class IRI="#Polarity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isAssociatedWith"/>
+        <Class IRI="#Symbol"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isComposedOf"/>
+        <Class IRI="#BasicEmotion"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isOpositeOf"/>
+        <Class IRI="#Emotion"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
